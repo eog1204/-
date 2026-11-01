@@ -1,0 +1,12 @@
+{
+  "name": "tongkkang-private-anonymous-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Private-first anonymous message site",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
